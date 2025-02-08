@@ -1,2 +1,0 @@
-# Serverioko-taisykles
-Serverioko taisykles
